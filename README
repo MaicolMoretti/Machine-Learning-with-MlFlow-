@@ -1,0 +1,10 @@
+Environmental_original.ipynb is a jupyter notebook file. In this file you can see some machine 
+learning algorithms.
+
+Environmental_original.csv is the initial DataSet.
+
+Environmental_2colonne.csv is the same DataSet but with only 2 columns (it's not necessary)
+
+In EdaProject.py there is the same code of the Environmental_original.ipynb  (with some changes and improvements). Is used to log the project in MLFlow.
+
+
