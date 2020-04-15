@@ -1,10 +1,33 @@
-Environmental_original.ipynb is a jupyter notebook file. In this file you can see some machine 
-learning algorithms. (YOU MUST RUN THIS FILE WITH jupyter-notebook)
+
+Machine-Learning-with-MlFlow
+
+Environmental_original.ipynb is a jupyter notebook file. 
+In this file you can see some machine learning algorithms. 
+(YOU MUST RUN THIS FILE WITH jupyter-notebook)
 
 Environmental_original.csv is the initial DataSet.
 
 Environmental_2colonne.csv is the same DataSet but with only 2 columns (it's not necessary)
 
-In EdaProject.py there is the same code of the Environmental_original.ipynb  (with some changes and improvements). Is used to log the project in MLFlow.
+In EdaProject.py there is the same code of the Environmental_original.ipynb  (with some changes and improvements). 
+Is used to log the project in MLFlow.
+
+MLflow is an open source platform to manage the ML lifecycle, including experimentation, reproducibility, deployment, and 
+a central model registry. 
+MLflow currently offers four components:
+
+- MLflow Tracking 
+Record and query experiments: code, data, config, and results
+
+- MLflow Projects
+Package data science code in a format to reproduce runs on any platform
+
+-MLflow Models
+Deploy machine learning models in diverse serving environments
+
+-Model Registry
+Store, annotate, discover, and manage models in a central repository
+
+
 
 
